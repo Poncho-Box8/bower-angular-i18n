@@ -1,6 +1,7 @@
 {
   "name": "angular-i18n",
   "version": "1.5.0-build.4429+sha.21ab829",
+  "main": "./angular-locale_en-in.js",
   "ignore": [
     "**/.*",
     "node_modules",
